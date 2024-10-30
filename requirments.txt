@@ -7,3 +7,5 @@ catboost
 tqdm
 pyarrow
 fastparquet
+statsmodels
+matplotlib
