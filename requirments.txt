@@ -1,0 +1,9 @@
+numpy
+pandas
+tsfel
+optuna
+scikit-learn
+catboost
+tqdm
+pyarrow
+fastparquet
